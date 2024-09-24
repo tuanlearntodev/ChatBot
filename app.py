@@ -6,7 +6,7 @@ import recommend as rec
 app = Flask(__name__)
 
 # Load and create embeddings
-books_df = pre.load_books('D:\\Project\\ChatBot\\phoBERT\\src\\books.json')
+books_df = pre.load_books('/src/books.json')
 books_df = rec.create_embeddings(books_df)
 
 

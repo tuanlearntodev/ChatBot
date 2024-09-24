@@ -1,0 +1,1551 @@
+[ {
+  "id" : 1,
+  "title" : "Chuyên đề học tập Địa lí 10- sách giáo viên\r\n",
+  "subjectCode" : {
+    "id" : 4,
+    "code" : "91",
+    "subjectName" : "Địa lí"
+  },
+  "category" : {
+    "id" : 2,
+    "name" : "Sách giáo viên",
+    "code" : "083"
+  },
+  "author" : {
+    "id" : 2,
+    "name" : "Nhiều tác giả"
+  },
+  "publisher" : {
+    "id" : 2,
+    "name" : "GDVN - Kết nối tri thức với cuộc sống"
+  },
+  "image" : {
+    "id" : 1,
+    "imageName" : "1.png",
+    "imageType" : "image/png",
+    "imageUrl" : "src\\main\\resources\\templates\\bìa sách\\1.png"
+  },
+  "bookCode" : "CH527Đ",
+  "publishedYear" : "2022",
+  "publishPlace" : "HANOI",
+  "price" : null
+}, {
+  "id" : 2,
+  "title" : "Địa lí 10- sách giáo viên\r\n",
+  "subjectCode" : {
+    "id" : 4,
+    "code" : "91",
+    "subjectName" : "Địa lí"
+  },
+  "category" : {
+    "id" : 2,
+    "name" : "Sách giáo viên",
+    "code" : "083"
+  },
+  "author" : {
+    "id" : 2,
+    "name" : "Nhiều tác giả"
+  },
+  "publisher" : {
+    "id" : 1,
+    "name" : "GDVN - Chân trời sáng tạo"
+  },
+  "image" : {
+    "id" : 2,
+    "imageName" : "2.jpg",
+    "imageType" : "image/jpg",
+    "imageUrl" : "src\\main\\resources\\templates\\bìa sách\\2.jpg"
+  },
+  "bookCode" : "Đ301L",
+  "publishedYear" : "2022",
+  "publishPlace" : "HANOI",
+  "price" : null
+}, {
+  "id" : 3,
+  "title" : "Địa lí 10- sách giáo viên\r\n",
+  "subjectCode" : {
+    "id" : 4,
+    "code" : "91",
+    "subjectName" : "Địa lí"
+  },
+  "category" : {
+    "id" : 2,
+    "name" : "Sách giáo viên",
+    "code" : "083"
+  },
+  "author" : {
+    "id" : 2,
+    "name" : "Nhiều tác giả"
+  },
+  "publisher" : {
+    "id" : 2,
+    "name" : "GDVN - Kết nối tri thức với cuộc sống"
+  },
+  "image" : {
+    "id" : 3,
+    "imageName" : "3.jpg",
+    "imageType" : "image/jpg",
+    "imageUrl" : "src\\main\\resources\\templates\\bìa sách\\3.jpg"
+  },
+  "bookCode" : "Đ301L",
+  "publishedYear" : "2022",
+  "publishPlace" : "HANOI",
+  "price" : null
+}, {
+  "id" : 4,
+  "title" : "Địa lí 10- sách giáo viên\r\n",
+  "subjectCode" : {
+    "id" : 4,
+    "code" : "91",
+    "subjectName" : "Địa lí"
+  },
+  "category" : {
+    "id" : 2,
+    "name" : "Sách giáo viên",
+    "code" : "083"
+  },
+  "author" : {
+    "id" : 2,
+    "name" : "Nhiều tác giả"
+  },
+  "publisher" : {
+    "id" : 3,
+    "name" : "ĐHSP - Cánh diều"
+  },
+  "image" : {
+    "id" : 4,
+    "imageName" : "4.jpg",
+    "imageType" : "image/jpg",
+    "imageUrl" : "src\\main\\resources\\templates\\bìa sách\\4.jpg"
+  },
+  "bookCode" : "Đ301L",
+  "publishedYear" : "2022",
+  "publishPlace" : "HANOI",
+  "price" : null
+}, {
+  "id" : 5,
+  "title" : "Chuyên đề học tập lịch sử 10- sách giáo viên\r\n",
+  "subjectCode" : {
+    "id" : 5,
+    "code" : "9",
+    "subjectName" : "Lịch sử"
+  },
+  "category" : {
+    "id" : 2,
+    "name" : "Sách giáo viên",
+    "code" : "083"
+  },
+  "author" : {
+    "id" : 2,
+    "name" : "Nhiều tác giả"
+  },
+  "publisher" : {
+    "id" : 2,
+    "name" : "GDVN - Kết nối tri thức với cuộc sống"
+  },
+  "image" : {
+    "id" : 5,
+    "imageName" : "5.jpg",
+    "imageType" : "image/jpg",
+    "imageUrl" : "src\\main\\resources\\templates\\bìa sách\\5.jpg"
+  },
+  "bookCode" : "L302S",
+  "publishedYear" : "2022",
+  "publishPlace" : "HANOI",
+  "price" : null
+}, {
+  "id" : 6,
+  "title" : "Chuyên đề học tập lịch sử 10- sách giáo viên\r\n",
+  "subjectCode" : {
+    "id" : 5,
+    "code" : "9",
+    "subjectName" : "Lịch sử"
+  },
+  "category" : {
+    "id" : 2,
+    "name" : "Sách giáo viên",
+    "code" : "083"
+  },
+  "author" : {
+    "id" : 2,
+    "name" : "Nhiều tác giả"
+  },
+  "publisher" : {
+    "id" : 1,
+    "name" : "GDVN - Chân trời sáng tạo"
+  },
+  "image" : {
+    "id" : 6,
+    "imageName" : "6.jpg",
+    "imageType" : "image/jpg",
+    "imageUrl" : "src\\main\\resources\\templates\\bìa sách\\6.jpg"
+  },
+  "bookCode" : "CH527Đ",
+  "publishedYear" : "2022",
+  "publishPlace" : "HANOI",
+  "price" : null
+}, {
+  "id" : 7,
+  "title" : "Lịch sử 10- sách giáo viên\r\n",
+  "subjectCode" : {
+    "id" : 5,
+    "code" : "9",
+    "subjectName" : "Lịch sử"
+  },
+  "category" : {
+    "id" : 2,
+    "name" : "Sách giáo viên",
+    "code" : "083"
+  },
+  "author" : {
+    "id" : 2,
+    "name" : "Nhiều tác giả"
+  },
+  "publisher" : {
+    "id" : 2,
+    "name" : "GDVN - Kết nối tri thức với cuộc sống"
+  },
+  "image" : {
+    "id" : 7,
+    "imageName" : "7.jpg",
+    "imageType" : "image/jpg",
+    "imageUrl" : "src\\main\\resources\\templates\\bìa sách\\7.jpg"
+  },
+  "bookCode" : "L302S",
+  "publishedYear" : "2022",
+  "publishPlace" : "HANOI",
+  "price" : null
+}, {
+  "id" : 8,
+  "title" : "Lịch sử 10- sách giáo viên\r\n",
+  "subjectCode" : {
+    "id" : 5,
+    "code" : "9",
+    "subjectName" : "Lịch sử"
+  },
+  "category" : {
+    "id" : 2,
+    "name" : "Sách giáo viên",
+    "code" : "083"
+  },
+  "author" : {
+    "id" : 2,
+    "name" : "Nhiều tác giả"
+  },
+  "publisher" : {
+    "id" : 1,
+    "name" : "GDVN - Chân trời sáng tạo"
+  },
+  "image" : {
+    "id" : 8,
+    "imageName" : "8.jpg",
+    "imageType" : "image/jpg",
+    "imageUrl" : "src\\main\\resources\\templates\\bìa sách\\8.jpg"
+  },
+  "bookCode" : "L302S",
+  "publishedYear" : "2022",
+  "publishPlace" : "HANOI",
+  "price" : null
+}, {
+  "id" : 9,
+  "title" : "Lịch sử 10- sách giáo viên\r\n",
+  "subjectCode" : {
+    "id" : 5,
+    "code" : "9",
+    "subjectName" : "Lịch sử"
+  },
+  "category" : {
+    "id" : 2,
+    "name" : "Sách giáo viên",
+    "code" : "083"
+  },
+  "author" : {
+    "id" : 2,
+    "name" : "Nhiều tác giả"
+  },
+  "publisher" : {
+    "id" : 3,
+    "name" : "ĐHSP - Cánh diều"
+  },
+  "image" : {
+    "id" : 9,
+    "imageName" : "9.jpg",
+    "imageType" : "image/jpg",
+    "imageUrl" : "src\\main\\resources\\templates\\bìa sách\\9.jpg"
+  },
+  "bookCode" : "L302S",
+  "publishedYear" : "2022",
+  "publishPlace" : "HANOI",
+  "price" : null
+}, {
+  "id" : 10,
+  "title" : "Chuyên đề học tập Ngữ văn 10- sách giáo viên\r\n",
+  "subjectCode" : {
+    "id" : 6,
+    "code" : "8",
+    "subjectName" : "Ngữ văn"
+  },
+  "category" : {
+    "id" : 2,
+    "name" : "Sách giáo viên",
+    "code" : "083"
+  },
+  "author" : {
+    "id" : 2,
+    "name" : "Nhiều tác giả"
+  },
+  "publisher" : {
+    "id" : 1,
+    "name" : "GDVN - Chân trời sáng tạo"
+  },
+  "image" : {
+    "id" : 10,
+    "imageName" : "10.jpg",
+    "imageType" : "image/jpg",
+    "imageUrl" : "src\\main\\resources\\templates\\bìa sách\\10.jpg"
+  },
+  "bookCode" : "CH527Đ",
+  "publishedYear" : "2022",
+  "publishPlace" : "HANOI",
+  "price" : null
+}, {
+  "id" : 11,
+  "title" : "Ngữ văn 10 tâp 1- sách giáo viên\r\n",
+  "subjectCode" : {
+    "id" : 6,
+    "code" : "8",
+    "subjectName" : "Ngữ văn"
+  },
+  "category" : {
+    "id" : 2,
+    "name" : "Sách giáo viên",
+    "code" : "083"
+  },
+  "author" : {
+    "id" : 2,
+    "name" : "Nhiều tác giả"
+  },
+  "publisher" : {
+    "id" : 3,
+    "name" : "ĐHSP - Cánh diều"
+  },
+  "image" : {
+    "id" : 11,
+    "imageName" : "11.heic",
+    "imageType" : "image/heic",
+    "imageUrl" : "src\\main\\resources\\templates\\bìa sách\\11.heic"
+  },
+  "bookCode" : "NG550V",
+  "publishedYear" : "2022",
+  "publishPlace" : "HANOI",
+  "price" : null
+}, {
+  "id" : 12,
+  "title" : "Ngữ văn 10 tâp 2- sách giáo viên\r\n",
+  "subjectCode" : {
+    "id" : 6,
+    "code" : "8",
+    "subjectName" : "Ngữ văn"
+  },
+  "category" : {
+    "id" : 2,
+    "name" : "Sách giáo viên",
+    "code" : "083"
+  },
+  "author" : {
+    "id" : 2,
+    "name" : "Nhiều tác giả"
+  },
+  "publisher" : {
+    "id" : 3,
+    "name" : "ĐHSP - Cánh diều"
+  },
+  "image" : {
+    "id" : 12,
+    "imageName" : "12.jpg",
+    "imageType" : "image/jpg",
+    "imageUrl" : "src\\main\\resources\\templates\\bìa sách\\12.jpg"
+  },
+  "bookCode" : "NG550V",
+  "publishedYear" : "2022",
+  "publishPlace" : "HANOI",
+  "price" : null
+}, {
+  "id" : 13,
+  "title" : "Ngữ văn 10 tâp 1- sách giáo viên\r\n",
+  "subjectCode" : {
+    "id" : 6,
+    "code" : "8",
+    "subjectName" : "Ngữ văn"
+  },
+  "category" : {
+    "id" : 2,
+    "name" : "Sách giáo viên",
+    "code" : "083"
+  },
+  "author" : {
+    "id" : 2,
+    "name" : "Nhiều tác giả"
+  },
+  "publisher" : {
+    "id" : 2,
+    "name" : "GDVN - Kết nối tri thức với cuộc sống"
+  },
+  "image" : {
+    "id" : 13,
+    "imageName" : "13.jpg",
+    "imageType" : "image/jpg",
+    "imageUrl" : "src\\main\\resources\\templates\\bìa sách\\13.jpg"
+  },
+  "bookCode" : "NG550V",
+  "publishedYear" : "2022",
+  "publishPlace" : "HANOI",
+  "price" : null
+}, {
+  "id" : 14,
+  "title" : "Ngữ văn 10 tâp 2- sách giáo viên\r\n",
+  "subjectCode" : {
+    "id" : 6,
+    "code" : "8",
+    "subjectName" : "Ngữ văn"
+  },
+  "category" : {
+    "id" : 2,
+    "name" : "Sách giáo viên",
+    "code" : "083"
+  },
+  "author" : {
+    "id" : 2,
+    "name" : "Nhiều tác giả"
+  },
+  "publisher" : {
+    "id" : 2,
+    "name" : "GDVN - Kết nối tri thức với cuộc sống"
+  },
+  "image" : {
+    "id" : 14,
+    "imageName" : "14.jpg",
+    "imageType" : "image/jpg",
+    "imageUrl" : "src\\main\\resources\\templates\\bìa sách\\14.jpg"
+  },
+  "bookCode" : "NG550V",
+  "publishedYear" : "2022",
+  "publishPlace" : "HANOI",
+  "price" : null
+}, {
+  "id" : 15,
+  "title" : "Ngữ văn 10 tâp 1- sách giáo viên\r\n",
+  "subjectCode" : {
+    "id" : 6,
+    "code" : "8",
+    "subjectName" : "Ngữ văn"
+  },
+  "category" : {
+    "id" : 2,
+    "name" : "Sách giáo viên",
+    "code" : "083"
+  },
+  "author" : {
+    "id" : 2,
+    "name" : "Nhiều tác giả"
+  },
+  "publisher" : {
+    "id" : 1,
+    "name" : "GDVN - Chân trời sáng tạo"
+  },
+  "image" : {
+    "id" : 15,
+    "imageName" : "15.heic",
+    "imageType" : "image/heic",
+    "imageUrl" : "src\\main\\resources\\templates\\bìa sách\\15.heic"
+  },
+  "bookCode" : "NG550V",
+  "publishedYear" : "2022",
+  "publishPlace" : "HANOI",
+  "price" : null
+}, {
+  "id" : 16,
+  "title" : "Chuyên đề học tập sinh học 10- sách giáo viên\r\n",
+  "subjectCode" : {
+    "id" : 7,
+    "code" : "57",
+    "subjectName" : "Sinh học"
+  },
+  "category" : {
+    "id" : 2,
+    "name" : "Sách giáo viên",
+    "code" : "083"
+  },
+  "author" : {
+    "id" : 2,
+    "name" : "Nhiều tác giả"
+  },
+  "publisher" : {
+    "id" : 1,
+    "name" : "GDVN - Chân trời sáng tạo"
+  },
+  "image" : {
+    "id" : 16,
+    "imageName" : "16.heic",
+    "imageType" : "image/heic",
+    "imageUrl" : "src\\main\\resources\\templates\\bìa sách\\16.heic"
+  },
+  "bookCode" : "CH527Đ",
+  "publishedYear" : "2022",
+  "publishPlace" : "HANOI",
+  "price" : null
+}, {
+  "id" : 17,
+  "title" : "Chuyên đề học tập sinh học 10- sách giáo viên\r\n",
+  "subjectCode" : {
+    "id" : 7,
+    "code" : "57",
+    "subjectName" : "Sinh học"
+  },
+  "category" : {
+    "id" : 2,
+    "name" : "Sách giáo viên",
+    "code" : "083"
+  },
+  "author" : {
+    "id" : 2,
+    "name" : "Nhiều tác giả"
+  },
+  "publisher" : {
+    "id" : 2,
+    "name" : "GDVN - Kết nối tri thức với cuộc sống"
+  },
+  "image" : {
+    "id" : 17,
+    "imageName" : "17.jpg",
+    "imageType" : "image/jpg",
+    "imageUrl" : "src\\main\\resources\\templates\\bìa sách\\17.jpg"
+  },
+  "bookCode" : "CH527Đ",
+  "publishedYear" : "2022",
+  "publishPlace" : "HANOI",
+  "price" : null
+}, {
+  "id" : 18,
+  "title" : "Sinh học 10- sách giáo viên\r\n",
+  "subjectCode" : {
+    "id" : 7,
+    "code" : "57",
+    "subjectName" : "Sinh học"
+  },
+  "category" : {
+    "id" : 2,
+    "name" : "Sách giáo viên",
+    "code" : "083"
+  },
+  "author" : {
+    "id" : 2,
+    "name" : "Nhiều tác giả"
+  },
+  "publisher" : {
+    "id" : 2,
+    "name" : "GDVN - Kết nối tri thức với cuộc sống"
+  },
+  "image" : {
+    "id" : 18,
+    "imageName" : "18.heic",
+    "imageType" : "image/heic",
+    "imageUrl" : "src\\main\\resources\\templates\\bìa sách\\18.heic"
+  },
+  "bookCode" : "S312H",
+  "publishedYear" : "2022",
+  "publishPlace" : "HANOI",
+  "price" : null
+}, {
+  "id" : 19,
+  "title" : "Sinh học 10- sách giáo viên\r\n",
+  "subjectCode" : {
+    "id" : 7,
+    "code" : "57",
+    "subjectName" : "Sinh học"
+  },
+  "category" : {
+    "id" : 2,
+    "name" : "Sách giáo viên",
+    "code" : "083"
+  },
+  "author" : {
+    "id" : 2,
+    "name" : "Nhiều tác giả"
+  },
+  "publisher" : {
+    "id" : 3,
+    "name" : "ĐHSP - Cánh diều"
+  },
+  "image" : {
+    "id" : 19,
+    "imageName" : "19.jpg",
+    "imageType" : "image/jpg",
+    "imageUrl" : "src\\main\\resources\\templates\\bìa sách\\19.jpg"
+  },
+  "bookCode" : "S312H",
+  "publishedYear" : "2022",
+  "publishPlace" : "HANOI",
+  "price" : null
+}, {
+  "id" : 20,
+  "title" : "Chuyên đề học tập Địa lí 11- sách giáo viên\r\n",
+  "subjectCode" : {
+    "id" : 4,
+    "code" : "91",
+    "subjectName" : "Địa lí"
+  },
+  "category" : {
+    "id" : 2,
+    "name" : "Sách giáo viên",
+    "code" : "083"
+  },
+  "author" : {
+    "id" : 2,
+    "name" : "Nhiều tác giả"
+  },
+  "publisher" : {
+    "id" : 1,
+    "name" : "GDVN - Chân trời sáng tạo"
+  },
+  "image" : {
+    "id" : 20,
+    "imageName" : "20.heic",
+    "imageType" : "image/heic",
+    "imageUrl" : "src\\main\\resources\\templates\\bìa sách\\20.heic"
+  },
+  "bookCode" : "CH527Đ",
+  "publishedYear" : "2022",
+  "publishPlace" : "HANOI",
+  "price" : null
+}, {
+  "id" : 21,
+  "title" : "Địa lí 11- sách giáo viên\r\n",
+  "subjectCode" : {
+    "id" : 4,
+    "code" : "91",
+    "subjectName" : "Địa lí"
+  },
+  "category" : {
+    "id" : 2,
+    "name" : "Sách giáo viên",
+    "code" : "083"
+  },
+  "author" : {
+    "id" : 2,
+    "name" : "Nhiều tác giả"
+  },
+  "publisher" : {
+    "id" : 1,
+    "name" : "GDVN - Chân trời sáng tạo"
+  },
+  "image" : {
+    "id" : 21,
+    "imageName" : "21.heic",
+    "imageType" : "image/heic",
+    "imageUrl" : "src\\main\\resources\\templates\\bìa sách\\21.heic"
+  },
+  "bookCode" : "Đ301L",
+  "publishedYear" : "2022",
+  "publishPlace" : "HANOI",
+  "price" : null
+}, {
+  "id" : 22,
+  "title" : "Chuyên đề học tập lịch sử 11- sách giáo viên\r\n",
+  "subjectCode" : {
+    "id" : 5,
+    "code" : "9",
+    "subjectName" : "Lịch sử"
+  },
+  "category" : {
+    "id" : 2,
+    "name" : "Sách giáo viên",
+    "code" : "083"
+  },
+  "author" : {
+    "id" : 2,
+    "name" : "Nhiều tác giả"
+  },
+  "publisher" : {
+    "id" : 1,
+    "name" : "GDVN - Chân trời sáng tạo"
+  },
+  "image" : {
+    "id" : 22,
+    "imageName" : "22.heic",
+    "imageType" : "image/heic",
+    "imageUrl" : "src\\main\\resources\\templates\\bìa sách\\22.heic"
+  },
+  "bookCode" : "CH527Đ",
+  "publishedYear" : "2022",
+  "publishPlace" : "HANOI",
+  "price" : null
+}, {
+  "id" : 23,
+  "title" : "Lịch sử 11- sách giáo viên\r\n",
+  "subjectCode" : {
+    "id" : 5,
+    "code" : "9",
+    "subjectName" : "Lịch sử"
+  },
+  "category" : {
+    "id" : 2,
+    "name" : "Sách giáo viên",
+    "code" : "083"
+  },
+  "author" : {
+    "id" : 2,
+    "name" : "Nhiều tác giả"
+  },
+  "publisher" : {
+    "id" : 1,
+    "name" : "GDVN - Chân trời sáng tạo"
+  },
+  "image" : {
+    "id" : 23,
+    "imageName" : "23.heic",
+    "imageType" : "image/heic",
+    "imageUrl" : "src\\main\\resources\\templates\\bìa sách\\23.heic"
+  },
+  "bookCode" : "L302S",
+  "publishedYear" : "2022",
+  "publishPlace" : "HANOI",
+  "price" : null
+}, {
+  "id" : 24,
+  "title" : "Chuyên đề học tập Ngữ văn 11- sách giáo viên",
+  "subjectCode" : {
+    "id" : 6,
+    "code" : "8",
+    "subjectName" : "Ngữ văn"
+  },
+  "category" : {
+    "id" : 2,
+    "name" : "Sách giáo viên",
+    "code" : "083"
+  },
+  "author" : {
+    "id" : 2,
+    "name" : "Nhiều tác giả"
+  },
+  "publisher" : {
+    "id" : 2,
+    "name" : "GDVN - Kết nối tri thức với cuộc sống"
+  },
+  "image" : {
+    "id" : 24,
+    "imageName" : "24.heic",
+    "imageType" : "image/heic",
+    "imageUrl" : "src\\main\\resources\\templates\\bìa sách\\24.heic"
+  },
+  "bookCode" : "CH527Đ",
+  "publishedYear" : "2022",
+  "publishPlace" : "HANOI",
+  "price" : null
+}, {
+  "id" : 25,
+  "title" : "Chuyên đề học tập Ngữ văn 11- sách giáo viên",
+  "subjectCode" : {
+    "id" : 6,
+    "code" : "8",
+    "subjectName" : "Ngữ văn"
+  },
+  "category" : {
+    "id" : 2,
+    "name" : "Sách giáo viên",
+    "code" : "083"
+  },
+  "author" : {
+    "id" : 2,
+    "name" : "Nhiều tác giả"
+  },
+  "publisher" : {
+    "id" : 1,
+    "name" : "GDVN - Chân trời sáng tạo"
+  },
+  "image" : {
+    "id" : 25,
+    "imageName" : "25.png",
+    "imageType" : "image/png",
+    "imageUrl" : "src\\main\\resources\\templates\\bìa sách\\25.png"
+  },
+  "bookCode" : "CH527Đ",
+  "publishedYear" : "2022",
+  "publishPlace" : "HANOI",
+  "price" : null
+}, {
+  "id" : 26,
+  "title" : "Ngữ văn 11 tâp 1- sách giáo viên\r\n",
+  "subjectCode" : {
+    "id" : 6,
+    "code" : "8",
+    "subjectName" : "Ngữ văn"
+  },
+  "category" : {
+    "id" : 2,
+    "name" : "Sách giáo viên",
+    "code" : "083"
+  },
+  "author" : {
+    "id" : 2,
+    "name" : "Nhiều tác giả"
+  },
+  "publisher" : {
+    "id" : 2,
+    "name" : "GDVN - Kết nối tri thức với cuộc sống"
+  },
+  "image" : {
+    "id" : 26,
+    "imageName" : "26.heic",
+    "imageType" : "image/heic",
+    "imageUrl" : "src\\main\\resources\\templates\\bìa sách\\26.heic"
+  },
+  "bookCode" : "NG550V",
+  "publishedYear" : "2022",
+  "publishPlace" : "HANOI",
+  "price" : null
+}, {
+  "id" : 27,
+  "title" : "Ngữ văn 11 tâp 2- sách giáo viên",
+  "subjectCode" : {
+    "id" : 6,
+    "code" : "8",
+    "subjectName" : "Ngữ văn"
+  },
+  "category" : {
+    "id" : 2,
+    "name" : "Sách giáo viên",
+    "code" : "083"
+  },
+  "author" : {
+    "id" : 2,
+    "name" : "Nhiều tác giả"
+  },
+  "publisher" : {
+    "id" : 2,
+    "name" : "GDVN - Kết nối tri thức với cuộc sống"
+  },
+  "image" : {
+    "id" : 27,
+    "imageName" : "27.heic",
+    "imageType" : "image/heic",
+    "imageUrl" : "src\\main\\resources\\templates\\bìa sách\\27.heic"
+  },
+  "bookCode" : "NG550V",
+  "publishedYear" : "2022",
+  "publishPlace" : "HANOI",
+  "price" : null
+}, {
+  "id" : 28,
+  "title" : "GDQP&AN- sách giáo viên\r\n",
+  "subjectCode" : {
+    "id" : 8,
+    "code" : "355",
+    "subjectName" : "GDQP&AN"
+  },
+  "category" : {
+    "id" : 2,
+    "name" : "Sách giáo viên",
+    "code" : "083"
+  },
+  "author" : {
+    "id" : 2,
+    "name" : "Nhiều tác giả"
+  },
+  "publisher" : {
+    "id" : 3,
+    "name" : "ĐHSP - Cánh diều"
+  },
+  "image" : {
+    "id" : 28,
+    "imageName" : "28.jpg",
+    "imageType" : "image/jpg",
+    "imageUrl" : "src\\main\\resources\\templates\\bìa sách\\28.jpg"
+  },
+  "bookCode" : "G1108D",
+  "publishedYear" : "2022",
+  "publishPlace" : "HANOI",
+  "price" : null
+}, {
+  "id" : 29,
+  "title" : "GDTC 11- cầu lông- sách giáo viên\r\n",
+  "subjectCode" : {
+    "id" : 9,
+    "code" : "7A8.9",
+    "subjectName" : "GDTC cầu lông"
+  },
+  "category" : {
+    "id" : 2,
+    "name" : "Sách giáo viên",
+    "code" : "083"
+  },
+  "author" : {
+    "id" : 2,
+    "name" : "Nhiều tác giả"
+  },
+  "publisher" : {
+    "id" : 3,
+    "name" : "ĐHSP - Cánh diều"
+  },
+  "image" : {
+    "id" : 29,
+    "imageName" : "29.jpg",
+    "imageType" : "image/jpg",
+    "imageUrl" : "src\\main\\resources\\templates\\bìa sách\\29.jpg"
+  },
+  "bookCode" : "G1108D",
+  "publishedYear" : "2022",
+  "publishPlace" : "HANOI",
+  "price" : null
+}, {
+  "id" : 30,
+  "title" : "GDTC 11- bóng đá- sách giáo viên ",
+  "subjectCode" : {
+    "id" : 10,
+    "code" : "7A8.8",
+    "subjectName" : "GDTC bóng đá"
+  },
+  "category" : {
+    "id" : 2,
+    "name" : "Sách giáo viên",
+    "code" : "083"
+  },
+  "author" : {
+    "id" : 2,
+    "name" : "Nhiều tác giả"
+  },
+  "publisher" : {
+    "id" : 2,
+    "name" : "GDVN - Kết nối tri thức với cuộc sống"
+  },
+  "image" : {
+    "id" : 30,
+    "imageName" : "30.jpg",
+    "imageType" : "image/jpg",
+    "imageUrl" : "src\\main\\resources\\templates\\bìa sách\\30.jpg"
+  },
+  "bookCode" : "G1108D",
+  "publishedYear" : "2022",
+  "publishPlace" : "HANOI",
+  "price" : null
+}, {
+  "id" : 31,
+  "title" : "Chuyên đề học tập tin học 11- sách giáo viên\r\n",
+  "subjectCode" : {
+    "id" : 11,
+    "code" : "6T3",
+    "subjectName" : "Tin học"
+  },
+  "category" : {
+    "id" : 2,
+    "name" : "Sách giáo viên",
+    "code" : "083"
+  },
+  "author" : {
+    "id" : 2,
+    "name" : "Nhiều tác giả"
+  },
+  "publisher" : {
+    "id" : 2,
+    "name" : "GDVN - Kết nối tri thức với cuộc sống"
+  },
+  "image" : {
+    "id" : 31,
+    "imageName" : "31.jpg",
+    "imageType" : "image/jpg",
+    "imageUrl" : "src\\main\\resources\\templates\\bìa sách\\31.jpg"
+  },
+  "bookCode" : "T311H",
+  "publishedYear" : "2022",
+  "publishPlace" : "HANOI",
+  "price" : null
+}, {
+  "id" : 32,
+  "title" : "Công nghệ 11- Công nghệ chăn nuôi- sách giáo viên\r\n",
+  "subjectCode" : {
+    "id" : 12,
+    "code" : "6C5",
+    "subjectName" : "Công nghệ"
+  },
+  "category" : {
+    "id" : 2,
+    "name" : "Sách giáo viên",
+    "code" : "083"
+  },
+  "author" : {
+    "id" : 2,
+    "name" : "Nhiều tác giả"
+  },
+  "publisher" : {
+    "id" : 3,
+    "name" : "ĐHSP - Cánh diều"
+  },
+  "image" : {
+    "id" : 32,
+    "imageName" : "32.jpg",
+    "imageType" : "image/jpg",
+    "imageUrl" : "src\\main\\resources\\templates\\bìa sách\\32.jpg"
+  },
+  "bookCode" : "C455N",
+  "publishedYear" : "2022",
+  "publishPlace" : "HANOI",
+  "price" : null
+}, {
+  "id" : 33,
+  "title" : "Công nghệ 11- Công nghệ cơ khí- sách giáo viên\r\n",
+  "subjectCode" : {
+    "id" : 12,
+    "code" : "6C5",
+    "subjectName" : "Công nghệ"
+  },
+  "category" : {
+    "id" : 2,
+    "name" : "Sách giáo viên",
+    "code" : "083"
+  },
+  "author" : {
+    "id" : 2,
+    "name" : "Nhiều tác giả"
+  },
+  "publisher" : {
+    "id" : 2,
+    "name" : "GDVN - Kết nối tri thức với cuộc sống"
+  },
+  "image" : {
+    "id" : 33,
+    "imageName" : "33.jpg",
+    "imageType" : "image/jpg",
+    "imageUrl" : "src\\main\\resources\\templates\\bìa sách\\33.jpg"
+  },
+  "bookCode" : "C455N",
+  "publishedYear" : "2022",
+  "publishPlace" : "HANOI",
+  "price" : null
+}, {
+  "id" : 34,
+  "title" : "Chuyên đề học tập GDKT&PL 11- sách giáo viên\r\n",
+  "subjectCode" : {
+    "id" : 13,
+    "code" : "33",
+    "subjectName" : "GDKT&PL"
+  },
+  "category" : {
+    "id" : 2,
+    "name" : "Sách giáo viên",
+    "code" : "083"
+  },
+  "author" : {
+    "id" : 2,
+    "name" : "Nhiều tác giả"
+  },
+  "publisher" : {
+    "id" : 2,
+    "name" : "GDVN - Kết nối tri thức với cuộc sống"
+  },
+  "image" : {
+    "id" : 34,
+    "imageName" : "34.jpg",
+    "imageType" : "image/jpg",
+    "imageUrl" : "src\\main\\resources\\templates\\bìa sách\\34.jpg"
+  },
+  "bookCode" : "CH527Đ",
+  "publishedYear" : "2022",
+  "publishPlace" : "HANOI",
+  "price" : null
+}, {
+  "id" : 35,
+  "title" : "GDKT&PL 11- sách giáo viên\r\n",
+  "subjectCode" : {
+    "id" : 13,
+    "code" : "33",
+    "subjectName" : "GDKT&PL"
+  },
+  "category" : {
+    "id" : 2,
+    "name" : "Sách giáo viên",
+    "code" : "083"
+  },
+  "author" : {
+    "id" : 2,
+    "name" : "Nhiều tác giả"
+  },
+  "publisher" : {
+    "id" : 2,
+    "name" : "GDVN - Kết nối tri thức với cuộc sống"
+  },
+  "image" : {
+    "id" : 35,
+    "imageName" : "35.jpg",
+    "imageType" : "image/jpg",
+    "imageUrl" : "src\\main\\resources\\templates\\bìa sách\\35.jpg"
+  },
+  "bookCode" : "G1108D",
+  "publishedYear" : "2022",
+  "publishPlace" : "HANOI",
+  "price" : null
+}, {
+  "id" : 36,
+  "title" : "GDKT&PL 11- sách giáo viên\r\n",
+  "subjectCode" : {
+    "id" : 13,
+    "code" : "33",
+    "subjectName" : "GDKT&PL"
+  },
+  "category" : {
+    "id" : 2,
+    "name" : "Sách giáo viên",
+    "code" : "083"
+  },
+  "author" : {
+    "id" : 2,
+    "name" : "Nhiều tác giả"
+  },
+  "publisher" : {
+    "id" : 3,
+    "name" : "ĐHSP - Cánh diều"
+  },
+  "image" : {
+    "id" : 36,
+    "imageName" : "36.jpg",
+    "imageType" : "image/jpg",
+    "imageUrl" : "src\\main\\resources\\templates\\bìa sách\\36.jpg"
+  },
+  "bookCode" : "G1108D",
+  "publishedYear" : "2022",
+  "publishPlace" : "HANOI",
+  "price" : null
+}, {
+  "id" : 37,
+  "title" : "GDKT&PL 11- sách giáo viên\r\n",
+  "subjectCode" : {
+    "id" : 13,
+    "code" : "33",
+    "subjectName" : "GDKT&PL"
+  },
+  "category" : {
+    "id" : 2,
+    "name" : "Sách giáo viên",
+    "code" : "083"
+  },
+  "author" : {
+    "id" : 2,
+    "name" : "Nhiều tác giả"
+  },
+  "publisher" : {
+    "id" : 1,
+    "name" : "GDVN - Chân trời sáng tạo"
+  },
+  "image" : {
+    "id" : 37,
+    "imageName" : "37.jpg",
+    "imageType" : "image/jpg",
+    "imageUrl" : "src\\main\\resources\\templates\\bìa sách\\37.jpg"
+  },
+  "bookCode" : "G1108D",
+  "publishedYear" : "2022",
+  "publishPlace" : "HANOI",
+  "price" : null
+}, {
+  "id" : 38,
+  "title" : "Chuyên đề học tập Vật lí 11\r\n",
+  "subjectCode" : {
+    "id" : 2,
+    "code" : "53",
+    "subjectName" : "Vật Lí"
+  },
+  "category" : {
+    "id" : 3,
+    "name" : "Sách tham khảo",
+    "code" : "076"
+  },
+  "author" : {
+    "id" : 2,
+    "name" : "Nhiều tác giả"
+  },
+  "publisher" : {
+    "id" : 2,
+    "name" : "GDVN - Kết nối tri thức với cuộc sống"
+  },
+  "image" : {
+    "id" : 38,
+    "imageName" : "38.jpg",
+    "imageType" : "image/jpg",
+    "imageUrl" : "src\\main\\resources\\templates\\bìa sách\\38.jpg"
+  },
+  "bookCode" : "CH527Đ",
+  "publishedYear" : "2022",
+  "publishPlace" : "HANOI",
+  "price" : null
+}, {
+  "id" : 39,
+  "title" : "Sách giáo khoa Vật lí 11\r\n",
+  "subjectCode" : {
+    "id" : 2,
+    "code" : "53",
+    "subjectName" : "Vật Lí"
+  },
+  "category" : {
+    "id" : 1,
+    "name" : "Sách giáo Khoa",
+    "code" : "075"
+  },
+  "author" : {
+    "id" : 2,
+    "name" : "Nhiều tác giả"
+  },
+  "publisher" : {
+    "id" : 3,
+    "name" : "ĐHSP - Cánh diều"
+  },
+  "image" : {
+    "id" : 39,
+    "imageName" : "39.jpg",
+    "imageType" : "image/jpg",
+    "imageUrl" : "src\\main\\resources\\templates\\bìa sách\\39.jpg"
+  },
+  "bookCode" : "V124L",
+  "publishedYear" : "2022",
+  "publishPlace" : "HANOI",
+  "price" : null
+}, {
+  "id" : 40,
+  "title" : "Chuyên đề học tập Toán học 11- sách giáo viên\r\n",
+  "subjectCode" : {
+    "id" : 1,
+    "code" : "51",
+    "subjectName" : "Toán Học"
+  },
+  "category" : {
+    "id" : 2,
+    "name" : "Sách giáo viên",
+    "code" : "083"
+  },
+  "author" : {
+    "id" : 2,
+    "name" : "Nhiều tác giả"
+  },
+  "publisher" : {
+    "id" : 1,
+    "name" : "GDVN - Chân trời sáng tạo"
+  },
+  "image" : {
+    "id" : 40,
+    "imageName" : "40.jpg",
+    "imageType" : "image/jpg",
+    "imageUrl" : "src\\main\\resources\\templates\\bìa sách\\40.jpg"
+  },
+  "bookCode" : "CH527Đ",
+  "publishedYear" : "2022",
+  "publishPlace" : "HANOI",
+  "price" : null
+}, {
+  "id" : 41,
+  "title" : "Toán học 11 tập 1\r\n",
+  "subjectCode" : {
+    "id" : 1,
+    "code" : "51",
+    "subjectName" : "Toán Học"
+  },
+  "category" : {
+    "id" : 1,
+    "name" : "Sách giáo Khoa",
+    "code" : "075"
+  },
+  "author" : {
+    "id" : 2,
+    "name" : "Nhiều tác giả"
+  },
+  "publisher" : {
+    "id" : 1,
+    "name" : "GDVN - Chân trời sáng tạo"
+  },
+  "image" : {
+    "id" : 41,
+    "imageName" : "41.jpg",
+    "imageType" : "image/jpg",
+    "imageUrl" : "src\\main\\resources\\templates\\bìa sách\\41.jpg"
+  },
+  "bookCode" : "T406H",
+  "publishedYear" : "2022",
+  "publishPlace" : "HANOI",
+  "price" : null
+}, {
+  "id" : 42,
+  "title" : "Toán học 11 tập 1\r\n",
+  "subjectCode" : {
+    "id" : 1,
+    "code" : "51",
+    "subjectName" : "Toán Học"
+  },
+  "category" : {
+    "id" : 1,
+    "name" : "Sách giáo Khoa",
+    "code" : "075"
+  },
+  "author" : {
+    "id" : 2,
+    "name" : "Nhiều tác giả"
+  },
+  "publisher" : {
+    "id" : 3,
+    "name" : "ĐHSP - Cánh diều"
+  },
+  "image" : {
+    "id" : 42,
+    "imageName" : "42.jpg",
+    "imageType" : "image/jpg",
+    "imageUrl" : "src\\main\\resources\\templates\\bìa sách\\42.jpg"
+  },
+  "bookCode" : "T406H",
+  "publishedYear" : "2022",
+  "publishPlace" : "HANOI",
+  "price" : null
+}, {
+  "id" : 43,
+  "title" : "Toán học 11 tập 1\r\n",
+  "subjectCode" : {
+    "id" : 1,
+    "code" : "51",
+    "subjectName" : "Toán Học"
+  },
+  "category" : {
+    "id" : 1,
+    "name" : "Sách giáo Khoa",
+    "code" : "075"
+  },
+  "author" : {
+    "id" : 2,
+    "name" : "Nhiều tác giả"
+  },
+  "publisher" : {
+    "id" : 2,
+    "name" : "GDVN - Kết nối tri thức với cuộc sống"
+  },
+  "image" : {
+    "id" : 43,
+    "imageName" : "43.jpg",
+    "imageType" : "image/jpg",
+    "imageUrl" : "src\\main\\resources\\templates\\bìa sách\\43.jpg"
+  },
+  "bookCode" : "T406H",
+  "publishedYear" : "2022",
+  "publishPlace" : "HANOI",
+  "price" : null
+}, {
+  "id" : 44,
+  "title" : "Toán học 11- sách giáo viên\r\n",
+  "subjectCode" : {
+    "id" : 1,
+    "code" : "51",
+    "subjectName" : "Toán Học"
+  },
+  "category" : {
+    "id" : 2,
+    "name" : "Sách giáo viên",
+    "code" : "083"
+  },
+  "author" : {
+    "id" : 2,
+    "name" : "Nhiều tác giả"
+  },
+  "publisher" : {
+    "id" : 1,
+    "name" : "GDVN - Chân trời sáng tạo"
+  },
+  "image" : {
+    "id" : 44,
+    "imageName" : "44.jpg",
+    "imageType" : "image/jpg",
+    "imageUrl" : "src\\main\\resources\\templates\\bìa sách\\44.jpg"
+  },
+  "bookCode" : "T406H",
+  "publishedYear" : "2022",
+  "publishPlace" : "HANOI",
+  "price" : null
+}, {
+  "id" : 45,
+  "title" : "Bầi tập Toán học 11 tập 1",
+  "subjectCode" : {
+    "id" : 1,
+    "code" : "51",
+    "subjectName" : "Toán Học"
+  },
+  "category" : {
+    "id" : 3,
+    "name" : "Sách tham khảo",
+    "code" : "076"
+  },
+  "author" : {
+    "id" : 2,
+    "name" : "Nhiều tác giả"
+  },
+  "publisher" : {
+    "id" : 1,
+    "name" : "GDVN - Chân trời sáng tạo"
+  },
+  "image" : {
+    "id" : 45,
+    "imageName" : "45.jpg",
+    "imageType" : "image/jpg",
+    "imageUrl" : "src\\main\\resources\\templates\\bìa sách\\45.jpg"
+  },
+  "bookCode" : "B103T",
+  "publishedYear" : "2022",
+  "publishPlace" : "HANOI",
+  "price" : null
+}, {
+  "id" : 46,
+  "title" : "Chuyên đề học tập Hoá học 11- sách giáo viên\r\n",
+  "subjectCode" : {
+    "id" : 3,
+    "code" : "54",
+    "subjectName" : "Hóa học"
+  },
+  "category" : {
+    "id" : 2,
+    "name" : "Sách giáo viên",
+    "code" : "083"
+  },
+  "author" : {
+    "id" : 2,
+    "name" : "Nhiều tác giả"
+  },
+  "publisher" : {
+    "id" : 1,
+    "name" : "GDVN - Chân trời sáng tạo"
+  },
+  "image" : {
+    "id" : 46,
+    "imageName" : "46.jpg",
+    "imageType" : "image/jpg",
+    "imageUrl" : "src\\main\\resources\\templates\\bìa sách\\46.jpg"
+  },
+  "bookCode" : "CH527Đ",
+  "publishedYear" : "2022",
+  "publishPlace" : "HANOI",
+  "price" : null
+}, {
+  "id" : 47,
+  "title" : "Hoá học 11- sách giáo viên\r\n",
+  "subjectCode" : {
+    "id" : 3,
+    "code" : "54",
+    "subjectName" : "Hóa học"
+  },
+  "category" : {
+    "id" : 2,
+    "name" : "Sách giáo viên",
+    "code" : "083"
+  },
+  "author" : {
+    "id" : 2,
+    "name" : "Nhiều tác giả"
+  },
+  "publisher" : {
+    "id" : 1,
+    "name" : "GDVN - Chân trời sáng tạo"
+  },
+  "image" : {
+    "id" : 47,
+    "imageName" : "47.jpg",
+    "imageType" : "image/jpg",
+    "imageUrl" : "src\\main\\resources\\templates\\bìa sách\\47.jpg"
+  },
+  "bookCode" : "H401H",
+  "publishedYear" : "2022",
+  "publishPlace" : "HANOI",
+  "price" : null
+}, {
+  "id" : 48,
+  "title" : "Đề luyện thi tuyển sinh\r\nvào cá trường đại học cao đẳng và trung học chuyên nghiệp",
+  "subjectCode" : {
+    "id" : 1,
+    "code" : "51",
+    "subjectName" : "Toán Học"
+  },
+  "category" : {
+    "id" : 3,
+    "name" : "Sách tham khảo",
+    "code" : "076"
+  },
+  "author" : {
+    "id" : 2,
+    "name" : "Nhiều tác giả"
+  },
+  "publisher" : {
+    "id" : 4,
+    "name" : "Giáo dục"
+  },
+  "image" : {
+    "id" : 48,
+    "imageName" : "48.jpg",
+    "imageType" : "image/jpg",
+    "imageUrl" : "src\\main\\resources\\templates\\bìa sách\\48.jpg"
+  },
+  "bookCode" : "1267-T1014",
+  "publishedYear" : "2022",
+  "publishPlace" : "HANOI",
+  "price" : null
+}, {
+  "id" : 49,
+  "title" : "Để học tốt hình học\r\nThi tú tài & luyện thi đại học",
+  "subjectCode" : {
+    "id" : 1,
+    "code" : "51",
+    "subjectName" : "Toán Học"
+  },
+  "category" : {
+    "id" : 3,
+    "name" : "Sách tham khảo",
+    "code" : "076"
+  },
+  "author" : {
+    "id" : 3,
+    "name" : "Nguyễn Vĩnh Cận"
+  },
+  "publisher" : {
+    "id" : 6,
+    "name" : "NXB-Trẻ"
+  },
+  "image" : {
+    "id" : 49,
+    "imageName" : "49.jpg",
+    "imageType" : "image/jpg",
+    "imageUrl" : "src\\main\\resources\\templates\\bìa sách\\49.jpg"
+  },
+  "bookCode" : "1265-T89",
+  "publishedYear" : "2022",
+  "publishPlace" : "HANOI",
+  "price" : null
+}, {
+  "id" : 50,
+  "title" : "Thơ mới 1932.1945\r\nTác giả và tác phẩm",
+  "subjectCode" : {
+    "id" : 6,
+    "code" : "8",
+    "subjectName" : "Ngữ văn"
+  },
+  "category" : {
+    "id" : 3,
+    "name" : "Sách tham khảo",
+    "code" : "076"
+  },
+  "author" : {
+    "id" : 2,
+    "name" : "Nhiều tác giả"
+  },
+  "publisher" : {
+    "id" : 5,
+    "name" : "Hội nhà văn"
+  },
+  "image" : {
+    "id" : 50,
+    "imageName" : "50.jpg",
+    "imageType" : "image/jpg",
+    "imageUrl" : "src\\main\\resources\\templates\\bìa sách\\50.jpg"
+  },
+  "bookCode" : "386-V069",
+  "publishedYear" : "2022",
+  "publishPlace" : "HANOI",
+  "price" : null
+} ]
